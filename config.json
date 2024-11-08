@@ -1,0 +1,7 @@
+{
+    "bucket_name": "aws-public-blockchain",
+    "s3_prefix": "v1.0/btc/transactions/date=",
+    "local_directory": "C:/Users/vasuv/OneDrive/Desktop/DE/AWSBlockChain/datasets/bitcoin/transactions",
+    "s3_prefix_block": "v1.0/btc/blocks/date=",
+    "local_directory_block": "C:/Users/vasuv/OneDrive/Desktop/DE/AWSBlockChain/datasets/bitcoin/blocks"
+}
